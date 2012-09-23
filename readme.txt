@@ -4,7 +4,7 @@ Donate link: http://www.landry.me
 Tags: plugins, self-hosted, repository
 Requires at least: 3.3
 Tested up to: 3.5
-Stable tag: trunk
+Stable tag: 0.9.3
 
 This plugin allows you to host your own plugins on your wordpress installation.
 
